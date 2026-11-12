@@ -1,0 +1,1 @@
+# HarnessAdapter-plugin
